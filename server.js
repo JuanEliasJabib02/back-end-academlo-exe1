@@ -11,7 +11,7 @@ db.sync()
     .then(() => console.log("db sync")) 
     .catch(err => console.log(err));
 
-app.listen(4013, () => {
+app.listen(4222, () => {
     console.log("express are runinnn")
     
 });
