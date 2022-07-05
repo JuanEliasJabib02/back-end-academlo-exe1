@@ -1,0 +1,18 @@
+APLICACION REQUERIMENTOS:
+
+- Capturar hora de entrada empleado
+- Capturar hora de salida empleado
+- Cancelar  el registro ( status cancelled)
+- Mientras el empleado no marque su hora de salida este se considera (status working)
+- cuando los empleados marquen su hora  de salida se considera ( status out )
+
+LOGICA
+
+1. Instalo las librerias que usare(express, nodemon, sequelize)
+2. Creo las carpetas basicas para el proyecto, utils, controllers, models, routers y middleware
+3. Inicio express
+4. Creo la database y el servidor
+5. Creo el modelo
+6. Creo los controllers y los endpoints("rutas")
+
+
